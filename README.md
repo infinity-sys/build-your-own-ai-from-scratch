@@ -41,7 +41,7 @@ python peek.py
 | E02 | Text Is Numbers: Characters and Vocabulary | [`ep02/`](ep02/) |
 | E03 | Tokens: Words, Characters and Pieces of Words | [`ep03/`](ep03/) |
 | E04 | The Bigram Model: Counting What Comes Next | [`ep04/`](ep04/) |
-| E05 | Chances, Not Counts: Probability and Sampling from Zero | coming soon |
+| E05 | Chances, Not Counts: Probability and Sampling from Zero | [`ep05/`](ep05/) |
 | E06 | How Good Is Our Model? Measuring Surprise (Loss) | coming soon |
 | E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | coming soon |
 | E08 | What Is a Neuron? A Tiny Network, Forward Pass | coming soon |
