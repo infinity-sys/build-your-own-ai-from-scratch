@@ -1,0 +1,2 @@
+27 x 27 = 729 cells
+524 cells are zero

@@ -40,7 +40,7 @@ python peek.py
 | E01 | What Is a Chatbot, Really? (Course Opener) | [`ep01/`](ep01/) |
 | E02 | Text Is Numbers: Characters and Vocabulary | [`ep02/`](ep02/) |
 | E03 | Tokens: Words, Characters and Pieces of Words | [`ep03/`](ep03/) |
-| E04 | The Bigram Model: Counting What Comes Next | coming soon |
+| E04 | The Bigram Model: Counting What Comes Next | [`ep04/`](ep04/) |
 | E05 | Chances, Not Counts: Probability and Sampling from Zero | coming soon |
 | E06 | How Good Is Our Model? Measuring Surprise (Loss) | coming soon |
 | E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | coming soon |
