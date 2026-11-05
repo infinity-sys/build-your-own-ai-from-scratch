@@ -1,0 +1,2 @@
+159 100
+['the', 'monkey', 'in', 'his', "mother's", 'eyes', 'is', 'a', 'gazelle']
