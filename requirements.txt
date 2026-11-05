@@ -1,0 +1,3 @@
+# Build Your Own AI from Scratch
+# E01–E06 use only the Python standard library (no pip packages).
+# From E07 we will pin torch, matplotlib, and later gradio (E19) here.

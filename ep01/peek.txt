@@ -1,0 +1,5 @@
+proverbs: 20
+characters: 785
+different characters: 27
+shortest: patience is the key to relief
+longest: what is written on the forehead the eye will see

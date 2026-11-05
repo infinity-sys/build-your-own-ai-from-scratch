@@ -1,0 +1,7 @@
+text = open("../data/proverbs.txt", encoding="utf-8").read()
+lines = text.splitlines()
+print("proverbs:", len(lines))
+print("characters:", len(text))
+print("different characters:", len(set(text)))
+print("shortest:", min(lines, key=len))
+print("longest:", max(lines, key=len))
