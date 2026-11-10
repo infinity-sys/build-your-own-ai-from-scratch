@@ -1,5 +1,7 @@
 # E06: How Good Is Our Model? Measuring Surprise (Loss)
 
+Watch: https://youtu.be/XPSkio_ndTg
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode
