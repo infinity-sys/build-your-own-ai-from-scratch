@@ -1,5 +1,7 @@
 # E07: Numbers in Grids: Vectors, Matrices and Tensors with PyTorch
 
+Watch: https://youtu.be/miOK7XCDDmE
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## Setup (once)
