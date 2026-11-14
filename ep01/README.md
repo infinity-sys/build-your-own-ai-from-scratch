@@ -1,5 +1,7 @@
 # E01: What Is a Chatbot, Really? (Course Opener)
 
+Watch: https://youtu.be/ROJeZj4KZ_A
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode

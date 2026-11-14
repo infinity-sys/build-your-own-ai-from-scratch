@@ -1,5 +1,7 @@
 # E02: Text Is Numbers: Characters and Vocabulary
 
+Watch: https://youtu.be/vdqmUaTTkyI
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode

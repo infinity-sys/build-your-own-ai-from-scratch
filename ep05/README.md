@@ -1,5 +1,7 @@
 # E05: Chances, Not Counts: Probability and Sampling
 
+Watch: https://youtu.be/0uhrToAoSW0
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode

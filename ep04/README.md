@@ -1,5 +1,7 @@
 # E04: The Bigram Model: Counting What Comes Next
 
+Watch: https://youtu.be/ll-k7mSZOyo
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode

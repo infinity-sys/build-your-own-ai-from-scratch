@@ -1,5 +1,7 @@
 # E03: Tokens: Words, Characters and Pieces of Words
 
+Watch: https://youtu.be/2uxIwAwefgo
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## This episode
