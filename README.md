@@ -10,7 +10,7 @@ Every episode has a folder (`ep01/`, `ep02`, …). Run each script from inside i
 
 ## Setup
 
-You need Python 3.11 or newer (the course uses **Python 3.13**). Episodes E01–E06 use only the Python standard library. From E07 we add PyTorch and a few other packages (pinned in `requirements.txt` when those episodes land).
+You need Python 3.11 or newer (the course uses **Python 3.13**). Episodes E01–E06 use only the Python standard library. From E07 we add PyTorch (`torch==2.15.0`, pinned in `requirements.txt`); later episodes add a few more packages there. See `ep07/README.md` for the PyTorch install notes (a CPU-only build is enough).
 
 | Platform | Install Python |
 |---|---|
@@ -25,7 +25,7 @@ Then, in the repository folder:
 ```
 python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r requirements.txt  # no packages needed yet for E01–E02
+pip install -r requirements.txt  # PyTorch, needed from E07
 cd ep01
 python self_check.py
 python peek.py
@@ -43,7 +43,7 @@ python peek.py
 | E04 | The Bigram Model: Counting What Comes Next | [`ep04/`](ep04/) | [Watch](https://youtu.be/ll-k7mSZOyo) |
 | E05 | Chances, Not Counts: Probability and Sampling from Zero | [`ep05/`](ep05/) | [Watch](https://youtu.be/0uhrToAoSW0) |
 | E06 | How Good Is Our Model? Measuring Surprise (Loss) | [`ep06/`](ep06/) | [Watch](https://youtu.be/XPSkio_ndTg) |
-| E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | coming soon |
+| E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | [`ep07/`](ep07/) | |
 | E08 | What Is a Neuron? A Tiny Network, Forward Pass | coming soon |
 | E09 | Learning from Mistakes: Slopes and Gradient Descent | coming soon |
 | E10 | Backpropagation, Step by Step | coming soon |

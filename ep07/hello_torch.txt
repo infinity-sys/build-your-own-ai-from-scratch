@@ -1,0 +1,2 @@
+PyTorch version: 2.15.0+cpu
+tensor([1, 2, 3])

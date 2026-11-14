@@ -1,0 +1,4 @@
+s shape: () dims: 0 numbers: 1
+v shape: (3,) dims: 1 numbers: 3
+M shape: (2, 3) dims: 2 numbers: 6
+B shape: (4, 2, 3) dims: 3 numbers: 24

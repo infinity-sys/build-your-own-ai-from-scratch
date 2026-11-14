@@ -1,0 +1,4 @@
+shape: torch.Size([27, 27])
+row t total: 58
+t then h: 21
+same as row t: True

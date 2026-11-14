@@ -1,0 +1,4 @@
+torch.Size([3]) torch.Size([3, 2])
+tensor([11., 14.])
+torch.Size([2])
+tensor(11.)

@@ -1,0 +1,5 @@
+tensor([2., 0., 1.])
+torch.Size([3])
+tensor(2.)
+tensor([20.,  0., 10.])
+tensor([4., 0., 2.])
