@@ -1,0 +1,5 @@
+w1 = -1.0   output = -0.8
+w1 = -0.5   output = -0.54
+w1 = 0.0   output = -0.1
+w1 = 0.5   output = 0.38
+w1 = 1.0   output = 0.72

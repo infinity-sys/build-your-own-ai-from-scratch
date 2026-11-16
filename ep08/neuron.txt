@@ -1,0 +1,2 @@
+weighted sum z: 0.7
+output: 0.6
