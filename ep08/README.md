@@ -1,5 +1,6 @@
 # E08: What Is a Neuron? A Tiny Network, Forward Pass
 
+Watch: https://youtu.be/nFMj24BjAXo
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## Setup

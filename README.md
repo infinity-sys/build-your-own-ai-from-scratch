@@ -44,7 +44,7 @@ python peek.py
 | E05 | Chances, Not Counts: Probability and Sampling from Zero | [`ep05/`](ep05/) | [Watch](https://youtu.be/0uhrToAoSW0) |
 | E06 | How Good Is Our Model? Measuring Surprise (Loss) | [`ep06/`](ep06/) | [Watch](https://youtu.be/XPSkio_ndTg) |
 | E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | [`ep07/`](ep07/) | [Watch](https://youtu.be/miOK7XCDDmE) |
-| E08 | What Is a Neuron? A Tiny Network, Forward Pass | [`ep08/`](ep08/) | |
+| E08 | What Is a Neuron? A Tiny Network, Forward Pass | [`ep08/`](ep08/) | [Watch](https://youtu.be/nFMj24BjAXo) |
 | E09 | Learning from Mistakes: Slopes and Gradient Descent | coming soon |
 | E10 | Backpropagation, Step by Step | coming soon |
 | E11 | The Bigram Model as a Neural Network | coming soon |
