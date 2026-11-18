@@ -1,0 +1,10 @@
+step 1   w = 1.2   mistake = 12.9603
+step 2   w = 1.92   mistake = 4.6659
+step 3   w = 2.352   mistake = 1.6798
+step 4   w = 2.611   mistake = 0.6048
+step 5   w = 2.767   mistake = 0.2178
+step 6   w = 2.86   mistake = 0.0784
+step 7   w = 2.916   mistake = 0.0282
+step 8   w = 2.95   mistake = 0.0102
+step 9   w = 2.97   mistake = 0.0037
+step 10   w = 2.982   mistake = 0.0013

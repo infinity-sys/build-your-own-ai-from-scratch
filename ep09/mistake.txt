@@ -1,0 +1,6 @@
+w = 0.0   mistake = 36.0
+w = 1.0   mistake = 16.0
+w = 2.0   mistake = 4.0
+w = 3.0   mistake = 0.0
+w = 4.0   mistake = 4.0
+w = 5.0   mistake = 16.0
