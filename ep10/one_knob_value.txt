@@ -1,0 +1,3 @@
+mistake: 36.0
+w.grad: -24.0
+diff.grad: -12.0

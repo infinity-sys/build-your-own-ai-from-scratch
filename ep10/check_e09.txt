@@ -1,0 +1,4 @@
+start = 6.0  lr = 0.05  first slope: 24
+  w: [4.8, 4.08, 3.648, 3.389] ... after 10 steps: 3.018
+start = 0.0  lr = 0.25  first slope: -24
+  w: [6.0, 0.0, 6.0, 0.0] ... after 10 steps: 0.0
