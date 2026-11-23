@@ -1,5 +1,7 @@
 # E09: Learning from Mistakes: Slopes and Gradient Descent
 
+Watch: https://youtu.be/WbsoLi2C2t4
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## Setup
