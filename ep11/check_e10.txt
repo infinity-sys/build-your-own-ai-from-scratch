@@ -1,0 +1,7 @@
+mistake: 36.0
+w.grad: 24.0
+diff.grad: 12.0
+output:  0.7163
+w1.grad: 0.4869
+w2.grad: 0.0
+b.grad:  0.4869

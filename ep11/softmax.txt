@@ -1,0 +1,5 @@
+scores: [2.0, 1.0, 0.0]
+exp(scores): 7.389, 2.718, 1.000
+sum of exp: 11.107
+softmax: 0.665, 0.245, 0.090
+sum of softmax: 1.000

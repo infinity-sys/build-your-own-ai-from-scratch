@@ -1,0 +1,3 @@
+logit for h after t: -0.33
+chance of h after t: 0.0174
+loss on all 705 pairs: 3.71

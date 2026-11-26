@@ -1,0 +1,8 @@
+characters: 27
+train pairs: 705
+first five:
+'t' -> 'h' ids 20 10
+'h' -> 'e' ids 10 7
+'e' -> ' ' ids 7 1
+' ' -> 'm' ids 1 14
+'m' -> 'o' ids 14 16
