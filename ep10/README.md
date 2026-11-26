@@ -1,5 +1,7 @@
 # E10: Backpropagation, Step by Step
 
+Watch: https://youtu.be/tqPqWpftLpU
+
 Playlist: https://www.youtube.com/playlist?list=PLNEAUFhep8gE
 
 ## Setup

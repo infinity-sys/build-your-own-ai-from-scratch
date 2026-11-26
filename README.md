@@ -46,7 +46,7 @@ python peek.py
 | E07 | Numbers in Grids: Vectors, Matrices and Tensors with PyTorch | [`ep07/`](ep07/) | [Watch](https://youtu.be/miOK7XCDDmE) |
 | E08 | What Is a Neuron? A Tiny Network, Forward Pass | [`ep08/`](ep08/) | [Watch](https://youtu.be/nFMj24BjAXo) |
 | E09 | Learning from Mistakes: Slopes and Gradient Descent | [`ep09/`](ep09/) | [Watch](https://youtu.be/WbsoLi2C2t4) |
-| E10 | Backpropagation, Step by Step | [`ep10/`](ep10/) | |
+| E10 | Backpropagation, Step by Step | [`ep10/`](ep10/) | [Watch](https://youtu.be/tqPqWpftLpU) |
 | E11 | The Bigram Model as a Neural Network | coming soon |
 | E12 | Embeddings: Giving Each Character a Meaning Made of Numbers | coming soon |
 | E13 | Looking Back: Using Earlier Characters (Averaging) | coming soon |
