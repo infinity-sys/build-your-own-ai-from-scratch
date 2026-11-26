@@ -1,7 +1,7 @@
 counting train: 2.04
 neural train:   2.05
-counting val (add-1): 2.57
-neural val:            2.53
+counting val +1: 2.57
+neural val:     2.53
 after t, chance of space:
   counting: 0.28
   neural:   0.28
